@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @SpaceDubby07 or Zach
-- 👀 I’m interested in gaming, 3d printing, food, Anime, Kayaking, Nature, Biology, Web and Mobile App development, IT support, and a bunch of other stuff.
-- 🌱 I’m Actively working with web technologies, such as HTML, CSS, JavaScript, MYSQL, Typescript, mongodb, mongoose, prisma, astro, remix, react, react native, websockets, webhooks, integrating AI models, and so much more
-- 📫 How to reach me ... You can email me at zclark006@outlook.com
+# 👋 Hi, I’m Zach (@SpaceDubby07)  
 
-<!---
-SpaceDubby07/SpaceDubby07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests  
+I have a wide range of interests, including:  
+- **Gaming** 🎮  
+- **3D Printing** 🖨️  
+- **Food** 🍴  
+- **Anime** 🎥  
+- **Kayaking & Nature** 🌿🛶  
+- **Biology** 🧬  
+- **Web & Mobile App Development** 💻📱  
+- **IT Support** 🖥️🔧  
+- ...and so much more!  
+
+### 🌱 What I’m Working On  
+I’m actively building and experimenting with modern technologies like:  
+- **Web Development**: HTML, CSS, JavaScript, TypeScript  
+- **Databases**: MySQL, MongoDB (via Mongoose, Prisma)  
+- **Frameworks**: Astro, Remix, React, React Native  
+- **Real-Time Features**: WebSockets, Webhooks  
+- **AI Integration**: Implementing and integrating AI models  
+- And countless other tools and frameworks!  
+
+### 📫 Get In Touch  
+Feel free to reach out to me anytime!  
+**Email**: [zclark006@outlook.com](mailto:zclark006@outlook.com)
